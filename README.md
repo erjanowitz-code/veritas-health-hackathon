@@ -2,6 +2,10 @@
 
 Prep work for the Veritas AI International High School Hackathon (Nov 14–15, 2026).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erjanowitz-code/veritas-health-hackathon/blob/main/baseline_test.ipynb)
+
+`baseline_test.ipynb` is the notebook version: open it in Colab and use **Runtime → Run all**.
+
 ## baseline_test.py
 
 Compares a "most frequent class" baseline with a Random Forest on real health data
